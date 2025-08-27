@@ -122,8 +122,3 @@ Please open an **issue** to report bugs or suggest new features, or submit a **p
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ```
-
----
-
-Do you also want me to add a **“Model Training” section** explaining how the original CNN was trained and then converted to `.tflite`, so developers can retrain or update the model if needed?
-```
