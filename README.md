@@ -1,5 +1,5 @@
 
-# 🐎👤 Horses or Humans Image Classifier (Android)
+# 🐎👤 Android Image Classifier using TensorFlow Lite
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.8-blue.svg)](https://kotlinlang.org/)  
 [![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-2.x-orange.svg)](https://www.tensorflow.org/lite)  
